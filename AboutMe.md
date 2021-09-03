@@ -32,3 +32,56 @@ Below is a table that includes food and drinks that are very handy and nutritiou
 > The biggest adventure you can take is to live the life of your dreams.
 
 *Oprah Winfrey*
+
+---
+
+### Geometry Elementary/Polygon
+
+> the part of Euclidean geometry dealing with the simpler properties of straight lines, circles, planes, polyhedrons, the sphere, the cylinder, and the right circular cone
+[link source](https://www.merriam-webster.com/dictionary/elementary%20geometry)
+
+```
+struct point2d {
+    ftype x, y;
+    point2d() {}
+    point2d(ftype x, ftype y): x(x), y(y) {}
+    point2d& operator+=(const point2d &t) {
+        x += t.x;
+        y += t.y;
+        return *this;
+    }
+    point2d& operator-=(const point2d &t) {
+        x -= t.x;
+        y -= t.y;
+        return *this;
+    }
+    point2d& operator*=(ftype t) {
+        x *= t;
+        y *= t;
+        return *this;
+    }
+    point2d& operator/=(ftype t) {
+        x /= t;
+        y /= t;
+        return *this;
+    }
+    point2d operator+(const point2d &t) const {
+        return point2d(*this) += t;
+    }
+    point2d operator-(const point2d &t) const {
+        return point2d(*this) -= t;
+    }
+    point2d operator*(ftype t) const {
+        return point2d(*this) *= t;
+    }
+    point2d operator/(ftype t) const {
+        return point2d(*this) /= t;
+    }
+};
+point2d operator*(ftype a, point2d b) {
+    return b * a;
+}
+```
+[Code Source](https://cp-algorithms.com/geometry/basic-geometry.html)
+
+
