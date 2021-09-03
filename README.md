@@ -18,5 +18,5 @@ Favorite items to be brought to this loaction:
 * Sand toys
 * Picnic blanket and beach towels
 * Beach lunc and snacks
-* Change of clothes + hats
+* Change of clothes + 2 hats
 
