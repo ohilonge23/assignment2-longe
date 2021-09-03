@@ -12,3 +12,11 @@ Dubai is an extremely beautiful place with friendly people and tall buildings. T
 3. Land in Daytona Beach airport
 4. Drive 5 miles via W International Speedway Blvd
 
+Favorite items to be brought to this loaction:
+
+* Beach umbrella
+* Sand toys
+* Picnic blanket and beach towels
+* Beach lunc and snacks
+* Change of clothes + hats
+
