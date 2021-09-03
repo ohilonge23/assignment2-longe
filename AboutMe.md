@@ -7,3 +7,16 @@ I also like travelling and going to different states in the United States or out
 ![Dog Image](dog12.jpg)
 
 [Link for pitbull puppies](https://www.finestpitbullsmade.com/how-much-are-pitbull-puppies/)
+
+---
+
+## Table for Food/Drinks
+
+Below is a table that includes food and drinks that are very handy and nutritious when visiting the beach especially on a very sunny with the family and kids. 
+
+| Food | Location | Price |
+| --- | --- | ---: |
+| Chips | Walmart | $3 |
+| Sandwich | Hyvee | $2 |
+| Sandtoys | Walmart | $3 |
+| umbrella | Hyvee | $10 |
