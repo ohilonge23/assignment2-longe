@@ -26,7 +26,7 @@ Below is a table that includes food and drinks that are very handy and nutritiou
 ### Favorite quotes
 
 > If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you. 
-** Zig Ziglar **
+*Zig Ziglar*
 
 > The biggest adventure you can take is to live the life of your dreams
-** Oprah Winfrey **
+*Oprah Winfrey*
