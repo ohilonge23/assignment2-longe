@@ -20,3 +20,4 @@ Favorite items to be brought to this loaction:
 * Beach lunc and snacks
 * Change of clothes + 2 hats
 
+[AboutMe markdown file](AboutMe.md)
